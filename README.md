@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vishesh Sobti! <br/><a href="https://github.com/iamvishesh66">Programmer</a>, <a href="www.linkedin.com/in/vishesh-sobti-1b0530211/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Vishesh Sobti! <br/><a href="https://github.com/iamvishesh66">Programmer</a> and <a href="www.linkedin.com/in/vishesh-sobti-1b0530211/">Cybersecurity Professional</a>, </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
