@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [JWipe (Disk Wiping Utility)](https://github.com/iamvishesh66/DiskWipe)
+- [Speed and Network Test Utility](https://github.com/iamvishesh66/SpeedTest)
 
 <h2>📺 Popular YouTube Videos</h2>
 
